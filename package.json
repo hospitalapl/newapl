@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@react-native-community/cli-platform-android": "^3.0.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-debug-log": "^0.6.2",
     "native-base": "^2.13.8",
     "react": "16.9.0",
